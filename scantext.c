@@ -39,7 +39,7 @@ int checkword(char *findA, char *findB){
 	return 0;
 }
 
-void scantext (char *importA, char *importB, char *out, int wcmd){
+vid scantext (char *importA, char *importB, char *out, int wcmd){
 
 	int txtpos = 0;
 	int wordpos = 0;

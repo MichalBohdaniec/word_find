@@ -1,0 +1,517 @@
+
+ Page semi-protected
+Pokémon
+From Wikipedia, the free encyclopedia
+For other uses, see Pokémon (disambiguation).
+Pokémon
+English Pokémon logo.svg
+The official logo of Pokémon for its international release; Pokémon is short for the original Japanese title of Pocket Monsters.
+Creator	Satoshi Tajiri
+Ken Sugimori
+Game Freak
+Original work	Pocket Monsters Red and Green (1996)
+Print publications
+Short stories	Pokémon Junior
+Comics	Various Pokémon manga
+Films and television
+Films	See list of Pokémon films
+Short films	Various Pikachu shorts
+
+
+
+
+
+Animated series	Pokémon (anime)
+Pokémon Chronicles
+Television specials	Mewtwo Returns
+The Mastermind of Mirage Pokémon
+Television films	Pokémon Origins
+Theatrical presentations
+Musicals	Pokémon Live!
+Games
+Traditional	Pokémon Trading Card Game
+Pokémon Trading Figure Game
+Video games	Pokémon video game series
+Super Smash Bros.
+Audio
+Soundtracks	Pokémon 2.B.A. Master
+See also list of Pokémon theme songs
+Miscellaneous
+Theme park	Poképark
+Pokémon (???? Pokemon?, /'po?ke??m?n/ poh-kay-mon)[1][2] is a media franchise owned by The Pokémon Company,[3] and created by Satoshi Tajiri in 1995.[4] It is centered on fictional creatures called "Pokémon", which humans known as Pokémon Trainers catch and train to battle each other for sport.
+
+The franchise began as a pair of video games for the original Game Boy, developed by Game Freak and published by Nintendo. The franchise now spans video games, trading card games, animated television shows and movies, comic books, and toys. Pokémon is the second-most successful and lucrative video game-based media franchise in the world, behind only Nintendo's Mario franchise.[5]
+
+The franchise celebrated its tenth anniversary in 2006.[6] Cumulative sales of the video games (including home console games, such as Hey You, Pikachu! for the Nintendo 64) have reached more than 200 million copies.[7] In November 2005, 4Kids Entertainment, which had managed the non-game related licensing of Pokémon, announced that it had agreed not to renew the Pokémon representation agreement. Pokémon USA Inc. (now The Pokémon Company International), a subsidiary of Japan's Pokémon Co., now oversees all Pokémon licensing outside of Asia.[8] As of 2013, the Pokémon media franchise has grossed revenues of ¥4 trillion worldwide[9] (equivalent to US$37.76 billion). The brand earned $2 billion in 2014 alone.[10]
+
+2016 marks the 20th anniversary of the release of the original games, with the company celebrating by airing an ad during Super Bowl 50, and issuing re-releases of Pokémon Red, Blue, and Yellow.[11][12] The year will also see the launch of the augmented reality game Pokémon GO.
+
+Contents  [hide] 
+1	Name
+2	Concept
+3	Video games
+3.1	Generations
+3.2	Game mechanics
+3.2.1	Starter Pokémon
+3.2.2	Pokédex
+4	In other media
+4.1	Anime series
+4.2	Films
+4.3	Soundtracks
+4.4	Pokémon Trading Card Game
+4.5	Manga
+5	Criticism and controversy
+5.1	Morality and religious beliefs
+5.2	Health
+5.3	Monster in My Pocket
+5.4	Weapons brought to event
+6	Cultural influence
+6.1	Fan community
+6.1.1	Nuzlocke
+7	See also
+8	References
+9	External links
+Name
+The name Pokémon is the romanized contraction of the Japanese brand Pocket Monsters (????????? Poketto Monsuta?).[13] The term Pokémon, in addition to referring to the Pokémon franchise itself, also collectively refers to the 722 known fictional species that have made appearances in Pokémon media as of the release of the sixth generation titles Pokémon X and Y. "Pokémon" is identical in both the singular and plural, as is each individual species name; it is grammatically correct to say "one Pokémon" and "many Pokémon", as well as "one Pikachu" and "many Pikachu".[14] (However, Pokémon Red, Blue, and Yellow feature NPCs referring to the plurals of Clefairy and Diglett with an "s" at the end, shown "CLEFAIRYs" and "DIGLETTs", respectively. This was fixed in FireRed and LeafGreen.)
+
+Concept
+Tajiri first thought of Pokémon around 1989 or 1990, when the Game Boy was first released. The concept of the Pokémon universe, in both the video games and the general fictional world of Pokémon, stems from the hobby of insect collecting, a popular pastime which Pokémon executive director Satoshi Tajiri enjoyed as a child.[15] Players of the games are designated as Pokémon Trainers, and in the main series Pokémon games, these trainers have two general goals. These are to complete the Pokédex by collecting all of the available Pokémon species found in the fictional region where that game takes place; and to train a team of powerful Pokémon from those they have caught to compete against teams owned by other Trainers, and eventually win the fictional Pokémon League. These themes of collecting, training, and battling are present in almost every version of the Pokémon franchise, including the video games, the anime and manga series, and the Pokémon Trading Card Game.
+
+In most incarnations of the fictional Pokémon universe, a Trainer that encounters a wild Pokémon is able to capture that Pokémon by throwing a specially designed, mass-producible spherical tool called a Poké Ball at it. If the Pokémon is unable to escape the confines of the Poké Ball, it is officially considered to be under the ownership of that Trainer. Afterwards, it will obey whatever its new master commands, unless the Trainer demonstrates such a lack of experience that the Pokémon would rather act on its own accord. Trainers can send out any of their Pokémon to wage non-lethal battles against other Pokémon; if the opposing Pokémon is wild, the Trainer can capture that Pokémon with a Poké Ball, increasing his or her collection of creatures. Pokémon already owned by other Trainers cannot be captured, except under special circumstances in certain games. If a Pokémon fully defeats an opponent in battle so that the opponent is knocked out (i.e., "faints"), the winning Pokémon gains experience points and may level up. When leveling up, the Pokémon's statistics ("stats") of battling aptitude increase, such as Attack and Speed. From time to time the Pokémon may also learn new moves, which are techniques used in battle. In addition, many species of Pokémon possess the ability to undergo a form of metamorphosis and transform into a similar but stronger species of Pokémon, a process called evolution.
+
+In the main series, each game's single-player mode requires the Trainer to raise a team of Pokémon to defeat many non-player character (NPC) Trainers and their Pokémon. Each game lays out a somewhat linear path through a specific region of the Pokémon world for the Trainer to journey through, completing events and battling opponents along the way (including foiling the plans of a Team of Pokémon Trainers who serve as antagonists to the player). Each game features eight especially powerful Trainers, referred to as Gym Leaders, that the Trainer must defeat in order to progress. As a reward, the Trainer receives a Gym Badge, and once all eight badges are collected, that Trainer is eligible to challenge the region's Pokémon League, where four immensely talented trainers (referred to collectively as the "Elite Four") challenge the Trainer to four Pokémon battles in succession. If the trainer can overcome this gauntlet, he or she must then challenge the Regional Champion, the master Trainer who had previously defeated the Elite Four. Any Trainer who wins this last battle becomes the new champion.
+
+Video games
+Main article: Pokémon (video game series)
+Generations
+The original Pokémon games were role-playing games (RPGs) with an element of strategy, and were created by Satoshi Tajiri for the Game Boy. These RPGs, and their sequels, remakes, and English language translations, are still considered the "main" Pokémon games, and the games which most fans of the series are referring to when they use the term "Pokémon games". All of the licensed Pokémon properties overseen by The Pokémon Company International are divided roughly by generation. These generations are roughly chronological divisions by release; every several years, when an official sequel in the main RPG series is released that features new Pokémon, characters, and gameplay concepts, that sequel is considered the start of a new generation of the franchise. The main games and their spin-offs, the anime, manga, and trading card game are all updated with the new Pokémon properties each time a new generation begins. The franchise began the sixth generation on October 12, 2013.
+
+
+A rival battle between a Bulbasaur and a Charmander in Pokémon Red and Blue[16]
+The Pokémon franchise started off in its first generation with its initial release of Pocket Monsters Aka and Midori ("Red" and "Green", respectively) for the Game Boy in Japan. When these games proved extremely popular, an enhanced Ao ("Blue") version was released sometime after, and the Ao version was reprogrammed as Pokémon Red and Blue for international release. The games launched in the United States on September 30, 1998. The original Aka and Midori versions were never released outside Japan.[17] Afterwards, a further enhanced version titled Pokémon Yellow: Special Pikachu Edition was released to partially take advantage of the color palette of the Game Boy Color, as well as to feature more elements from the popular Pokémon anime. This first generation of games introduced the original 151 species of Pokémon, in National Pokédex order, encompassing all Pokémon from Bulbasaur to Mew. It also introduced the basic game concepts of capturing, training, battling, and trading Pokémon with both computer and human players. These versions of the games take place within the fictional Kanto region, inspired by the real world Kanto region of Japan, though the name "Kanto" was not used until the second generation.
+
+The second generation of Pokémon began in 1999 with the release of Pokémon Gold and Silver for Game Boy Color. Like the previous generation, an enhanced version titled Pokémon Crystal was later released. The second generation introduced 100 new species of Pokémon, starting with Chikorita and ending with Celebi. It totaled 251 Pokémon to collect, train, and battle, set in Johto, inspired by Japan's Kansai region. The Pokémon mini is a handheld game console released in November 2001 in North America, December 2001 in Japan, and 2002 in Europe.
+
+Pokémon entered its third generation with the 2002 release of Pokémon Ruby and Sapphire for Game Boy Advance and continued with the Game Boy Advance remakes of Pokémon Red and Blue, Pokémon FireRed and LeafGreen, and an enhanced version of Pokémon Ruby and Sapphire titled Pokémon Emerald. The third generation introduced 135 new Pokémon, starting with Treecko and ending with Deoxys, for a total of 386 species. It is set in Hoenn, inspired by Japan's Kyushu region. However, this generation also garnered some criticism for leaving out several gameplay features, including the day-and-night system introduced in the previous generation. It was also the first installment that encouraged the player to collect merely a selected assortment of the total number of Pokémon rather than every existing species. By contrast, 202 out of 386 species are catchable in the Ruby and Sapphire versions.
+
+In 2006, Japan began the fourth generation of the franchise with the release of Pokémon Diamond and Pearl for Nintendo DS. The fourth generation introduced another 107 new species of Pokémon, starting with Turtwig and ending with Arceus, bringing the total of Pokémon species to 493.[18] The Nintendo DS "touch screen" allows new features to the game such as cooking poffins with the stylus and using the "Pokétch". New gameplay concepts include a restructured move-classification system, online multiplayer trading and battling via Nintendo Wi-Fi Connection, the return and expansion of the second generation's day-and-night system, the expansion of the third generation's Pokémon Contests into "Super Contests", and the new region of Sinnoh. This region was inspired by Japan's Hokkaido region and part of Russia's Sakhalin, and has an underground component for multiplayer gameplay in addition to the main overworld. Pokémon Platinum, the enhanced version of Diamond and Pearl—much like Pokémon Yellow, Crystal, and Emerald—was released in September 2008 in Japan, March 2009 in North America, and May 2009 in Australia and Europe. Spin-off titles in the fourth generation include the Pokémon Stadium follow-up Pokémon Battle Revolution for Wii, which has Wi-Fi connectivity as well.[19] Nintendo announced in May 2009 that enhanced remakes of Pokémon Gold and Silver, entitled Pokémon HeartGold and SoulSilver, would be released for the Nintendo DS system. HeartGold and SoulSilver are set in the Johto region and were released in September 2009 in Japan.[20]
+
+The fifth generation of Pokémon began on September 18, 2010, with the release of Pokémon Black and White in Japan for Nintendo DS.[21] The games were originally announced by the Pokémon Company on January 29, 2010, with a tentative release later that year.[22][23] The final release date of September 18 was announced on June 27, 2010.[24] This version is set in the Unova region (?????? Isshu-chiho?, Isshu region), inspired by New York City, and utilizes the Nintendo DS's 3-D rendering capabilities to a greater extent than Platinum, HeartGold, and SoulSilver, as shown in game footage of the player walking through the Castelia City (?????? Hiun Shiti?) metropolis. A total of 156 new Pokémon were introduced, starting with Victini and ending with Genesect, bringing the franchise's total to 649.[25] It also deployed new game mechanics such as the C Gear (C?? C Gia?) wireless interactivity features[26] and the ability to upload game data to the Internet and to the player's own computer.[27] Pokémon Black and White was released in Europe on March 4, 2011, in North America on March 6, 2011, and in Australia on March 10, 2011. On June 23, 2012, Nintendo released Pokémon Black 2 and Pokémon White 2 in Japan for Nintendo DS, with early October releases in North America and Europe. Black 2 and White 2 are sequels to Black and White, with several events in the second games referencing events in the first; they also allow players to link their previous Black or White with their Black 2 or White 2, introducing several events based on how they played their previous game.
+
+Officially announced on January 8, 2013, and released simultaneously worldwide on October 12, 2013, Pokémon X and Y for the Nintendo 3DS are part of the sixth generation of games.[28] Introducing the France-inspired Kalos region, these are the first Pokémon games rendered in 3D, and the first released worldwide together.[29] On May 7, 2014, Nintendo announced remakes of the third generation games Pokémon Ruby and Sapphire titled Pokémon Omega Ruby and Alpha Sapphire which were released in Japan, North America, Australia, and South Korea on November 21, 2014, and in Europe on November 28, 2014.
+
+Officially announced on February 26, 2016, Pokémon Sun and Moon for the Nintendo 3DS are part of the seventh generation of games, and the celebrations for the 20th year anniversary of the franchise. Both games will be available worldwide during the holiday season in nine different languages; Japanese, English, French, Italian, German, Spanish, Korean and Chinese (Traditional and Simplified).[30]
+
+Game mechanics
+Main article: Gameplay of Pokémon
+The main staple of the Pokémon video game series revolves around the catching and battling of Pokémon. Starting with a starter Pokémon, the player can catch wild Pokémon by weakening them and catching them with Poké Balls. Conversely, they can choose to defeat them in battle in order to gain experience for their Pokémon, raising their levels and teaching them new moves. Certain Pokémon can evolve into more powerful forms by raising their levels or using certain items. Throughout the game, players will have to battle other trainers in order to progress, with the main goal to defeat various Gym Leaders and earn the right to become a tournament champion. Subsequent games in the series have introduced various side games and side quests, including the Battle Frontiers that display unique battle types and the Pokémon Contests where visual appearance is put on display.
+
+Starter Pokémon
+
+The Pokemon used by trainers in the Hoenn region, from left to right they are Torchic, a Fire type, Treeko, a Grass type, and Mudkip, a Water type which has recently become famous due to a meme
+One of the consistent aspects of the Pokémon games—spanning from Pokémon Red and Blue on the Game Boy to the Nintendo 3DS games Pokémon Omega Ruby and Alpha Sapphire—is the choice of one of three different Pokémon at the start of the player's adventures; these three are often labeled "starter Pokémon". Players can choose a Grass-type, a Fire-type, or a Water-type.[31] For example, in Pokémon Red and Blue (and their respective remakes, Pokémon FireRed and Pokémon LeafGreen), the player has the choice of starting with Bulbasaur, Charmander, or Squirtle. The exception to this rule is Pokémon Yellow (a remake of the original games that follows the story of the Pokémon anime), where players are given a Pikachu, an Electric-type mouse Pokémon, famous for being the mascot of the Pokémon media franchise; in this game, however, the three starter Pokémon from Red and Blue can be obtained during the quest by a single player, something that is not possible in any other installment of the franchise.[32] Another consistent aspect is that the player's rival will always choose as his or her starter Pokémon the one that has a type advantage over the player's Pokémon. For instance, if the player picks a Grass-type Pokémon, the rival will always pick the Fire-type starter. An exception to this is again Pokémon Yellow, in which the rival picks an Eevee, but whether this Eevee evolves into Jolteon, Vaporeon, or Flareon is decided by when the player wins and loses to the rival through the journey. The GameCube games Pokémon Colosseum and Pokémon XD: Gale of Darkness also contain an exception; whereas in most games the player's initial Pokémon starts at Level 5, in these two games the player's initial Pokémon starts at Levels 10 and 25, respectively. In Colosseum the player's starter Pokémon are Espeon and Umbreon, while in Gale of Darkness the player's starter is Eevee.
+
+Pokédex
+The Pokédex is a fictional electronic device featured in the Pokémon video game and anime series. In the games, whenever a Pokémon is first captured, its data will be added to a player's Pokédex, but in the anime or manga, the Pokédex is a comprehensive electronic reference encyclopedia, usually referred to in order to deliver exposition. "Pokédex" is also used to refer to a list of Pokémon, usually a list of Pokémon by number. In the video games, a Pokémon Trainer is issued a blank device at the start of the journey. A trainer must then attempt to fill the Pokédex by encountering and at least briefly obtaining each of the different species of Pokémon. A player will receive the name and image of a Pokémon after encountering one that was not previously in the Pokédex, typically after battling said Pokémon either in the wild or in a trainer battle (with the exceptions of link battles and tournament battles, such as in the Battle Frontier). In Pokémon Red and Blue, some Pokémon's data is added to the Pokédex simply by viewing the Pokémon, such as in the zoo outside of the Safari Zone. Also, certain NPC characters may add to the Pokédex by explaining what a Pokémon looks like during conversation. More detailed information is available after the player obtains a member of the species, either through capturing the Pokémon in the wild, evolving a previously captured Pokémon, hatching a Pokémon egg (from the second generation onwards), or through a trade with another trainer (either an NPC or another player). This information includes height, weight, species type, and a short description of the Pokémon. Later versions of the Pokédex have more detailed information, like the size of a certain Pokémon compared to the player character, or Pokémon being sorted by their habitat (so far, the latter feature is only in the FireRed and LeafGreen versions). The most current forms of Pokédex are capable of containing information on all Pokémon currently known. The GameCube games, Pokémon Colosseum and Pokémon XD: Gale of Darkness, have a Pokémon Digital Assistant (P?DA) which is similar to the Pokédex, but also tells what types are effective against a Pokémon and gives a description of its abilities.[33]
+
+In other media
+
+Ash Ketchum and Pikachu together in the pilot episode, "Pokémon, I Choose You!"
+Anime series
+Main article: Pokémon (anime)
+The Pokémon anime series and films are a meta-series of adventures separate from the canon that most of the Pokémon video games follow (with the exception of Pokémon Yellow, a game based loosely on the anime storyline). The anime follows the quest of the main character, Ash Ketchum[34] (known as Satoshi in Japan) a Pokémon Master in training, as he and a small group of friends[34] travel around the fictitious world of Pokémon along with their Pokémon partners. The original series, titled Pocket Monsters, or simply Pokémon in Western countries (often referred to as Pokémon: Gotta Catch 'Em All to distinguish it from the later series), begins with Ash's first day as a Pokémon trainer. His first (and signature) Pokémon is a Pikachu, differing from the games, where only Bulbasaur, Charmander, or Squirtle could be chosen.[35] The series follows the storyline of the original games, Pokémon Red and Blue, in the region of Kanto. Accompanying Ash on his journeys are Brock, the Pewter City Gym Leader, and Misty, the youngest of the Gym Leader sisters from Cerulean City. Pokémon: Adventures in the Orange Islands follows Ash's adventures in the Orange Islands, a place unique to the anime, and replaces Brock with Tracey Sketchit, an artist and "Pokémon watcher". The next series, based on the second generation of games, include Pokémon: Johto Journeys, Pokémon: Johto League Champions, and Pokémon: Master Quest, following the original trio of Ash, Brock, and Misty in the western Johto region.
+
+The saga continues in Pokémon: Advanced, based on the third generation games. Ash and company travel to Hoenn, a southern region in the Pokémon World. Ash takes on the role of a teacher and mentor for a novice Pokémon trainer named May. Her brother Max accompanies them, and though he isn't a trainer, he knows large amounts of handy information. Brock (from the original series) soon catches up with Ash, but Misty has returned to Cerulean City to tend to her duties as a gym leader (Misty, along with other recurring characters, appears in the spin-off series Pokémon Chronicles). The Advanced series concludes with the Battle Frontier saga, based on the Emerald version and including aspects of FireRed and LeafGreen. It ended with Max leaving to pick his starter Pokémon and May going to the Grand Festival in Johto.
+
+In the Diamond and Pearl series, based on the fourth generation games, Ash, Brock, and a new companion, an aspiring Pokémon coordinator named Dawn, travel through the region of Sinnoh. At the end of the series, Ash and Brock return to Kanto where Brock begins to follow his newfound dream of becoming a Pokémon doctor himself.
+
+Pocket Monsters: Best Wishes!, based on the fifth generation games, features Ash and Pikachu traveling through the region of Unova (Isshu in Japan) alongside two new companions, Iris and Cilan (Dent in Japan) who part ways with them after returning to Kanto.
+
+Pocket Monsters: XY (?????????XY Poketo Monsuta Ekkusu Wai?), is the current airing series based on the sixth generation games, following Ash and Pikachu's journey through the region of Kalos, accompanied by Ash's childhood friend Serena and the siblings Clemont and Bonnie.[36][37][38]
+
+In addition to the TV series, seventeen Pokémon films have been made, with the pair of films, Pokémon the Movie: Black—Victini and Reshiram and White—Victini and Zekrom considered together as one. Collectible bonuses, such as promotional trading cards, have been available with some of the films. Various children's books, collectively known as Pokémon Junior, are also based on the anime.[39]
+
+Films
+Given release years are the original Japanese release years.
+
+Pokémon: The First Movie—Mewtwo Strikes Back (1998)
+Pokémon: The Movie 2000—The Power of One (1999)
+Pokémon 3: The Movie—Spell of the Unown (2000)
+Pokémon 4Ever—Celebi: Voice of the Forest (2001)
+Pokémon Heroes (2002)
+Pokémon: Jirachi Wish Maker (2003)
+Pokémon: Destiny Deoxys (2004)
+Pokémon: Lucario and the Mystery of Mew (2005)
+Pokémon Ranger and the Temple of the Sea (2006)
+Pokémon: The Rise of Darkrai (2007)
+Pokémon: Giratina and the Sky Warrior (2008)
+Pokémon: Arceus and the Jewel of Life (2009)
+Pokémon: Zoroark: Master of Illusions (2010)
+Pokémon the Movie: Black—Victini and Reshiram &
+Pokémon the Movie: White—Victini and Zekrom (2011)
+Pokémon the Movie: Kyurem vs. the Sword of Justice (2012)
+Pokémon the Movie: Genesect and the Legend Awakened (2013)
+Pokémon the Movie: Diancie and the Cocoon of Destruction (2014)
+Pokémon the Movie: Hoopa and the Clash of Ages (2015)
+Pokémon the Movie XY & Z: Volcanion to Karakuri no Magearna (2016)
+Soundtracks
+Pokémon CDs have been released in North America, most of them in conjunction with the theatrical releases of the first three Pokémon films. These releases were commonplace until late 2001. On March 27, 2007, a tenth anniversary CD was released containing 18 tracks from the English dub; this was the first English-language release in over five years. Soundtracks of the Pokémon feature films have been released in Japan each year in conjunction with the theatrical releases.
+
+Year	Title
+June 29, 1999[40]	Pokémon 2.B.A. Master
+November 9, 1999[41]	Pokémon: The First Movie
+February 8, 2000	Pokémon World
+May 9, 2000	Pokémon: The First Movie Original Motion Picture Score
+July 18, 2000	Pokémon: The Movie 2000
+Unknown1	Pokémon: The Movie 2000 Original Motion Picture Score
+January 23, 2001	Totally Pokémon
+April 3, 2001	Pokémon 3: The Ultimate Soundtrack
+October 9, 2001	Pokémon Christmas Bash
+March 27, 2007	Pokémon X: Ten Years of Pokémon
+November 12, 2013	Pokémon X & Pokémon Y: Super Music Collection
+December 10, 2013	Pokémon FireRed & Pokémon LeafGreen: Super Music Collection
+January 14, 2014	Pokémon HeartGold & Pokémon SoulSilver: Super Music Collection
+February 11, 2014	Pokémon Ruby & Pokémon Sapphire: Super Music Collection
+March 11, 2014	Pokémon Diamond & Pokémon Pearl: Super Music Collection
+April 8, 2014	Pokémon Black & Pokémon White: Super Music Collection
+May 13, 2014	Pokémon Black 2 & Pokémon White 2: Super Music Collection
+December 21, 2014	Pokémon Omega Ruby & Pokémon Alpha Sapphire: Super Music Collection
+^1 The exact date of release is unknown.
+Pokémon Trading Card Game
+Main article: Pokémon Trading Card Game
+
+Palkia, the Spacial Pokémon Trading Card Game card from Pokémon TCG Diamond and Pearl
+The Pokémon Trading Card Game is a collectible card game with a goal similar to a Pokémon battle in the video game series. Players use Pokémon cards, with individual strengths and weaknesses, in an attempt to defeat their opponent by "knocking out" his or her Pokémon cards.[42] The game was first published in North America by Wizards of the Coast in 1999.[43] However, with the release of Pokémon Ruby and Sapphire Game Boy Advance video games, The Pokémon Company took back the card game from Wizards of the Coast and started publishing the cards themselves.[43] The Expedition expansion introduced the Pokémon-e Trading Card Game, where the cards (for the most part) were compatible with the Nintendo e-Reader. Nintendo discontinued its production of e-Reader compatible cards with the release of EX FireRed & LeafGreen. In 1998, Nintendo released a Game Boy Color version of the trading card game in Japan; Pokémon Trading Card Game was subsequently released to the US and Europe in 2000. The game included digital versions cards from the original set of cards and the first two expansions (Jungle and Fossil), as well as several cards exclusive to the game. A Japan-exclusive sequel was released in 2001.[44]
+
+Manga
+Main article: Pokémon (manga)
+There are various Pokémon manga series, four of which were released in English by Viz Media, and seven of them released in English by Chuang Yi. The manga series vary from game-based series to being based on the anime and the TCG. Original stories have also been published. As there are several series created by different authors most Pokémon manga series differ greatly from each other and other media, such as the anime.
+
+Manga released in English
+The Electric Tale of Pikachu (a.k.a. Dengeki Pikachu), a shonen manga created by Toshihiro Ono. It was divided into four tankobon, each given a separate title in the North American and English Singapore versions: The Electric Tale of Pikachu, Pikachu Shocks Back, Electric Pikachu Boogaloo, and Surf's Up, Pikachu. The series is based loosely on the anime.
+Pokémon Adventures (Pocket Monsters SPECIAL in Japan), a shonen manga based on the video games.
+Magical Pokémon Journey (a.k.a. Pocket Monsters PiPiPi ? Adventures), a shojo manga
+Pikachu Meets the Press (newspaper style comics, not released by Chuang Yi)
+Ash & Pikachu (a.k.a. Satoshi to Pikachu, not released by Viz)
+Pokémon Gold & Silver (not released by Viz)
+Pokémon Ruby-Sapphire and Pokémon Pocket Monsters (not released by Viz)
+Pokémon: Jirachi Wish Maker (not released by Viz)
+Pokémon: Destiny Deoxys (not released by Viz)
+Pokémon: Lucario and the Mystery of Mew (the third movie-to-comic adaptation)
+Pokémon Ranger and the Temple of the Sea[45] (the fourth movie-to-comic adaption)
+Pokémon Diamond and Pearl Adventure!
+Pokémon Adventures: Diamond and Pearl / Platinum[46]
+Pokémon: The Rise of Darkrai[47] (the fifth movie-to-comic adaption)
+Pokémon: Giratina and the Sky Warrior[48] (the sixth movie-to-comic adaption)
+Pokémon: Arceus and the Jewel of Life[49] (the seventh movie-to-comic adaption)
+Pokémon: Zoroark: Master of Illusions[50] (the eighth movie-to-comic adaption)
+Pokémon The Movie: White: Victini and Zekrom[51] (the ninth movie-to-comic adaption)
+Pokémon Black and White[52][53][54][55][56][57][58]
+Manga not released in English
+Pokémon Card ni Natta Wake (How I Became a Pokémon Card) by Kagemaru Himeno, an artist for the TCG. There are six volumes and each includes a special promotional card. The stories tell the tales of the art behind some of Himeno's cards.
+Pokémon Get aa ze! by Miho Asada
+Pocket Monsters Chamo-Chamo ? Pretty ? by Yumi Tsukirino, who also made Magical Pokémon Journey.
+Pokémon Card Master
+Pocket Monsters Emerald Chosen!! Battle Frontier by Ihara Shigekatsu
+Pocket Monsters Zensho by Satomi Nakamura
+Criticism and controversy
+Morality and religious beliefs
+Pokémon has been criticized by some Christians over perceived occult and violent themes and the concept of "Pokémon evolution", which they feel goes against the Biblical creation account in Genesis.[59] However, Sat2000, a satellite TV station based in Vatican City, has countered that the Pokémon Trading Card Game and video games are "full of inventive imagination" and have no "harmful moral side effects".[60][61] In the United Kingdom, the "Christian Power Cards" game was introduced in 1999 by David Tate who stated, "Some people aren't happy with Pokémon and want an alternative, others just want Christian games." The game was similar to the Pokémon TCG but used Biblical figures.[62]
+
+In 1999, Nintendo stopped manufacturing the Japanese version of the "Koga's Ninja Trick" trading card because it depicted a manji, a traditionally Buddhist symbol with no negative connotations. The Jewish civil rights group Anti-Defamation League complained because the symbol is the reverse of a swastika, which is considered offensive to Jewish people. The cards were intended for sale in Japan only, but the popularity of Pokémon led to importation into the United States with approval from Nintendo. The Anti-Defamation League understood that the issue symbol was not intended to offend and acknowledged the sensitivity that Nintendo showed by removing the product.[63]
+
+In 1999, two nine-year-old boys from Merrick, New York sued Nintendo in because they claimed the Pokémon Trading Card Game caused their problematic gambling.[64]
+
+In 2001, Saudi Arabia banned Pokémon games and cards, alleging that the franchise promoted Zionism by displaying the Star of David in the trading cards (a six-pointed star is featured in the card game) as well as other religious symbols such as crosses they associated with Christianity and triangles they associated with Freemasonry; the games also involved gambling, which is in violation of Muslim doctrine.[65][66]
+
+Pokémon has also been accused of promoting materialism.[67]
+
+Health
+Main article: Denno Senshi Porygon
+On December 16, 1997, more than 635 Japanese children were admitted to hospitals with epileptic seizures.[68] It was determined the seizures were caused by watching an episode of Pokémon "Denno Senshi Porygon", (most commonly translated "Electric Soldier Porygon", season 1, episode 38); as a result, this episode has not been aired since. In this particular episode, there were bright explosions with rapidly alternating blue and red color patterns.[69] It was determined in subsequent research that these strobing light effects cause some individuals to have epileptic seizures, even if the person had no previous history of epilepsy.[70] This incident is a common focus of Pokémon-related parodies in other media, and was lampooned by the Simpsons episode "Thirty Minutes over Tokyo"[71] and the South Park episode "Chinpokomon",[72] among others.
+
+Monster in My Pocket
+In March 2000, Morrison Entertainment Group, a small toy developer based at Manhattan Beach, California, sued Nintendo over claims that Pokémon infringed on its own Monster in My Pocket characters. A judge ruled there was no infringement, so Morrison appealed the ruling in November 2001.[73]
+
+Weapons brought to event
+Main article: 2015 Pokémon World Championships § Weapons brought to event
+On Thursday, August 20, 2015, at the 2015 Pokémon World Championships, held at the Hynes Convention Center in Boston, Massachusetts, two invitees were arrested for unlicensed possession of firearms. They aroused suspicion after making ostensibly threatening posts on social media, accompanied by images of firearms.[74]
+
+Cultural influence
+
+All Nippon Airways Boeing 747–400 in Pokémon livery, dubbed a Pokémon Jet.
+Pokémon, being a globally popular franchise, has left a significant mark on today's pop culture. The Pokémon characters themselves have become pop culture icons; examples include two different Pikachu balloons in the Macy's Thanksgiving Day Parade, Pokémon Jets operated by All Nippon Airways, thousands of merchandise items, and a traveling theme park that was in Nagoya, Japan in 2005 and in Taipei in 2006. Pokémon also appeared on the cover of the U.S. magazine Time in 1999. The Comedy Central show Drawn Together has a character named Ling-Ling who is a direct parody of Pikachu.[75] Several other shows such as ReBoot, The Simpsons, South Park, The Grim Adventures of Billy & Mandy, Robot Chicken, All Grown Up! and Johnny Test have made references and spoofs of Pokémon, among other series. Pokémon was also featured on VH1's I Love the '90s: Part Deux. A live action show called Pokémon Live! toured the United States in late 2000. It was based on the popular Pokémon anime, but had some continuity errors relating to it. Jim Butcher cites Pokémon as one of the inspirations for the Codex Alera series of novels.
+
+In November 2001, Nintendo opened a store called the Pokémon Center in New York, in New York's Rockefeller Center,[76] modeled after the two other Pokémon Center stores in Tokyo and Osaka and named after a staple of the videogame series; Pokémon Centers are fictional buildings where Trainers take their injured Pokémon to be healed after combat.[77] The store sold Pokémon merchandise on a total of two floors, with items ranging from collectible shirts to stuffed Pokémon plushies.[78] The store also featured a Pokémon Distributing Machine in which players would place their game to receive an egg of a Pokémon that was being given out at that time. The store also had tables that were open for players of the Pokémon Trading Card Game to duel each other or an employee. The store was closed and replaced by the Nintendo World Store on May 14, 2005.[79] Three Pokémon Center kiosks were put in in malls in Washington, with one in Tacoma and one in Seattle currently remaining.[80][unreliable source?] The Pokémon Center online store was relaunched on August 6, 2014.[81]
+
+
+Meitetsu 2200 series train Giratina & Shaymin
+Joseph Jay Tobin theorizes that the success of the franchise was mainly due to the long list of names that could be learned by children and repeated in their peer groups. The rich fictional universe provided a lot of opportunities for discussion and demonstration of knowledge in front of their peers. In the French version Nintendo took care to translate the name of the creatures so that they reflected the French culture and language. In all cases the names of the creatures were linked to its characteristics, which converged with the children's belief that names have symbolic power. Children could pick their favourite Pokémon and affirm their individuality while at the same time affirming their conformance to the values of the group, and they could distinguish themselves from other kids by asserting what they liked and what they didn't like from every chapter. Pokémon gained popularity because it provided a sense of identity to a wide variety of children, and lost it quickly when many of those children found that the identity groups were too big and searched for identities that would distinguish them into smaller groups.[82]
+
+
+Shinkansen E3 Series train in Pokémon livery
+Pokémon's history has been marked at times by rivalry with the Digimon media franchise that debuted at a similar time. Described as "the other 'mon'" by IGN's Juan Castro, Digimon has not enjoyed Pokémon's level of international popularity or success, but has maintained a dedicated fanbase.[83] IGN's Lucas M. Thomas stated that Pokémon is Digimon's "constant competition and comparison", attributing the former's relative success to the simplicity of its evolution mechanic as opposed to Digivolution.[84] The two have been noted for conceptual and stylistic similarities by sources such as GameZone.[85] A debate among fans exists over which of the two franchises came first.[86] In actuality, the first Pokémon media, Pokémon Red and Green, were released initially on February 27, 1996;[87] whereas the Digimon virtual pet was released on June 26, 1997.
+
+Fan community
+While Pokémon's target demographic is young boys, early purchasers of the latest games, Pokémon Omega Ruby and Alpha Sapphire, were in their 20's.[88] Many fans are adults who originally played the games as children and later returned to the series.
+Bulbapedia, a wiki-based encyclopedia[89] associated with longtime fan site Bulbagarden,[90][91] is the "Internet's most detailed Pokémon database project".[92]
+A significant community around the Pokémon video games' metagame has existed for a long time, analyzing the best ways to use each Pokémon to their full potential in competitive battles. The most prolific competitive community is Smogon,[93] which has created a widely accepted tier-based battle system.[94]
+In early 2014, an anonymous video streamer on Twitch.tv launched Twitch Plays Pokémon, an experiment trying to crowdsource playing subsequent Pokémon games starting with Pokémon Red.[95][96]
+Nuzlocke
+A challenge called the Nuzlocke Challenge was created in order for older players of the series to enjoy Pokémon again, but with a twist. When a Pokémon faints it is considered "dead" and must be released or stored in the PC permanently.[97] If the player blacks out/whites out the game is considered over and the player must restart.[98] The original idea only consisted of 2 to 3 rules that the community has since built upon. There was a fan made Pokémon game made called Pokémon Uranium which contained a game mode similar to the Nuzlocke Challenge.[99]
+
+See also
+Portal icon	Pokémon portal
+Portal icon	Nintendo portal
+Portal icon	Video games portal
+Portal icon	Japan portal
+List of Pokémon
+List of Pokémon chapters
+List of Pokémon characters
+List of Pokémon episodes
+List of Pokémon video games
+Pokémon episodes removed from rotation
+References
+Jump up ^ "The ABC Book, A Pronunciation Guide". NLS Other Writings. NLS/BPH. January 7, 2013. Retrieved August 10, 2013.
+Jump up ^ Sora Ltd. (March 9, 2008). Super Smash Bros. Brawl Wii. Nintendo. (Announcer's dialog after the character Pokémon Trainer is selected (voice acted))
+Jump up ^ "Company History". ??????????????????. The Pokémon Company. Retrieved July 21, 2014.
+Jump up ^ "Pokémon". Encyclopædia Britannica. Encyclopædia Britannica, Inc. November 12, 2013. Retrieved April 5, 2015.
+Jump up ^ Boyes, Emma (January 10, 2007). "UK paper names top game franchises". GameSpot. GameSpot UK. Archived from the original on January 12, 2007. Retrieved February 26, 2007.
+Jump up ^ "Pokemon 10-Year Retrospective". IGN. Retrieved August 19, 2009.
+Jump up ^ "Pokémon Black Version and Pokémon White Version for Nintendo DS coming to Europe in Spring 2011" (Press release). Nintendo. May 29, 2010. Retrieved May 28, 2010.
+Jump up ^ Carless, Simon (December 23, 2005). "Pokemon USA Moves Licensing In-House". Gamasutra. Retrieved August 10, 2013.
+Jump up ^ "?????????????? X·Y??2013?10?12?(?)???????!". Famitsu. June 11, 2013. Retrieved January 27, 2015.
+Jump up ^ Whitehead, Thomas. "Pokémon Brand Retail Sales Hit $2 Billion in 2014, With Lifetime Series Game Sales at Over 270 Million". Nintendo Life. Retrieved May 13, 2015.
+Jump up ^ Snyder, Benjamin (January 14, 2016). "Pokémon Announced a Super Bowl Ad to Celebrate its 20th Anniversary". Fortune.
+Jump up ^ "Original Pokemon Virtual Console Re-Releases Support Pokemon Bank". GameSpot. Retrieved 2016-02-27.
+Jump up ^ Swider, Matt. "The Pokemon Series Pokedex". Gaming Target. Retrieved February 28, 2007.
+Jump up ^ John Kaufeld; Jeremy Smith (June 13, 2006). Trading Card Games For Dummies. John Wiley & Sons. p. 81. ISBN 978-0-470-04407-0. Retrieved April 25, 2013.
+Jump up ^ "The Ultimate Game Freak". Time. November 22, 1999. Retrieved May 22, 2010.
+Jump up ^ MacDonald, Mark; Brokaw, Brian; Arnold; J. Douglas; Elies, Mark (1999). Pokémon Trainer's Guide. Sandwich Islands Publishing. p. 73. ISBN 0-439-15404-9.
+Jump up ^ "Pokémon Green Info on GameFAQs". GameFAQs. Retrieved February 23, 2007.
+Jump up ^ Lucas M. Thomas (April 4, 2007). "The Countdown to Diamond and Pearl, Part 4". IGN. Retrieved June 29, 2008.
+Jump up ^ Riley, Adam (June 7, 2006). "Cubed3 Nintendo News < Features". Cubed3. Retrieved June 7, 2006.
+Jump up ^ "?????????????????? 2009?? ??????DS?????!" (in Japanese). Nintendo. Archived from the original on May 11, 2009. Retrieved May 8, 2009.
+Jump up ^ "??????????????·?????????? | ??????????????????" (in Japanese). Retrieved April 9, 2010.
+Jump up ^ "??????????????????? 2010???????????! | ????? | ???? | ??????????????????" (in Japanese). January 29, 2010. Archived from the original on September 14, 2010. Retrieved January 29, 2010.
+Jump up ^ Brian Ashcraft (January 28, 2010). ""Entirely New" Pokemon Series Coming This Year – Japan – Kotaku". Kotaku. Retrieved January 29, 2010.
+Jump up ^ "???? | ??????????????·??????????". Archived from the original on May 19, 2010. Retrieved June 27, 2010.
+Jump up ^ Micheal G. Ryan, ed. (2011). "Unova Region Pokédex". Pokémon Black and White Versions: The Official Unova Pokédex & Guide: Volume 2. The Pokémon Company. pp. 12–89.
+Jump up ^ "C?? | ??????????????·??????????" (in Japanese). Nintendo. Archived from the original on May 1, 2011. Retrieved June 28, 2010.
+Jump up ^ "Web?????? | ??????????????·??????????" (in Japanese). Nintendo. Archived from the original on May 1, 2011. Retrieved June 28, 2010.
+Jump up ^ "Pokémon X and Y Arrives on 3DS Worldwide in October". Anime News Network. Retrieved January 8, 2013.
+Jump up ^ "Pokémon X and Pokémon Y Developer Roundtable Recap". Pokémon (YouTube). June 12, 2013. Retrieved October 15, 2013.
+Jump up ^ "Pokémon Sun & Moon Unveiled for 3DS in Holiday 2016". Anime News Network. Retrieved February 26, 2016.
+Jump up ^ Padilla, Raymond (March 17, 2003). "Pokémon Ruby review". Gamespy.com. p. 1. Archived from the original on March 10, 2007. Retrieved May 30, 2006.
+Jump up ^ Harris, Craig (October 19, 1999). "Pokemon Yellow: Special Pikachu Edition". IGN. Retrieved March 27, 2006.
+Jump up ^ Official Pokémon Scenario Guide Diamond and Pearl version. pp. 30–31.
+^ Jump up to: a b "Pokémon anime overview". Psypokes.com. Retrieved May 25, 2006.
+Jump up ^ Pokémon 10th Anniversary, Vol. 1 – Pikachu. Viz Video. June 6, 2006. OCLC 68967936.
+Jump up ^ "??????????XY?10?17????? ???????????????? | ???!???!". Animeanime.jp. Retrieved June 30, 2013.
+Jump up ^ "?????????????????????? XY????10?????! | ??? | ????????". News.mynavi.jp. Retrieved June 30, 2013.
+Jump up ^ "Pokémon XY TV Anime to Debut on October 17 with Satoshi/Ash". Anime News Network. Retrieved June 30, 2013.
+Jump up ^ "Pokemon Junior Chapter Book Series". WebData Technology Corporation. Retrieved May 8, 2014.
+Jump up ^ "Pokémon 2.B.A. Master Soundtrack CD". Retrieved July 18, 2008.
+Jump up ^ "Pokémon: The First Movie Soundtrack CD". Retrieved July 18, 2008.
+Jump up ^ "Pokémon Trading Card Game "How to play" guide". Archived from the original on May 22, 2007. Pokemon-tcg.com. Retrieved July 3, 2006.
+^ Jump up to: a b Huebner, Chuck (March 12, 2003). "RE: Pokémon Ruby & Sapphire TCG Releases". Wizards.com. Archived from the original on February 27, 2009. Retrieved August 10, 2013.
+Jump up ^ "Pokemon Card GB2 info on GameFAQs". GameFAQs. Retrieved June 8, 2008.
+Jump up ^ Pokemon: Ranger and the Temple of the Sea. Viz Media. 2008. ISBN 1421522888.
+Jump up ^ Pokémon Adventures: Diamond and Pearl / Platinum, Vol. 2. Viz Media. 2011. ISBN 1421538172.
+Jump up ^ Pokémon: The Rise of Darkrai. Viz Media. 2008. ISBN 1421522896.
+Jump up ^ Pokemon: Giratina and the Sky Warrior!. Viz Media. 2009. ISBN 1421527014.
+Jump up ^ Pokémon: Arceus and the Jewel of Life. Viz Media. 2011. ISBN 1421538024.
+Jump up ^ Pokémon: Zoroark: Master of Illusions. Viz Media. 2011. ISBN 1421542218.
+Jump up ^ Pokémon the Movie: White: Victini and Zekrom. Viz Media. 2012. ISBN 1421549549.
+Jump up ^ Pokémon Black and White, Vol. 1 (9781421540900): Hidenori Kusaka, Satoshi Yamamoto. Viz Media. 2011. ISBN 1421540908.
+Jump up ^ Pokémon Black and White, Vol. 2 (9781421540917): Hidenori Kusaka, Satoshi Yamamoto. Viz Media. 2011. ISBN 1421540916.
+Jump up ^ Pokémon Black and White, Vol. 3 (9781421540924): Hidenori Kusaka, Satoshi Yamamoto. Viz Media. 2011. ISBN 1421540924.
+Jump up ^ Pokémon Black and White, Vol. 4 (9781421541143): Hidenori Kusaka, Satoshi Yamamoto. Viz Media. 2011. ISBN 1421541149.
+Jump up ^ Pokémon Black and White, Vol. 5 (9781421542805): Hidenori Kusaka, Satoshi Yamamoto. Viz Media. 2012. ISBN 1421542803.
+Jump up ^ Pokémon Black and White, Vol. 6 (9781421542812): Hidenori Kusaka, Satoshi Yamamoto. Viz Media. 2012. ISBN 1421542811.
+Jump up ^ Pokémon Black and White, Vol. 7 (9781421542829): Hidenori Kusaka, Satoshi Yamamoto. Viz Media. 2012. ISBN 142154282X.
+Jump up ^ "Pokémon: The Movie (1999)". ChildCare Action Project. 1999. Retrieved August 10, 2013.
+Jump up ^ Silverman, Stephen M. (December 9, 1997). "Pokemon Gets Religion". People. Retrieved August 10, 2013.
+Jump up ^ Barrett, Devlin. "POKEMON EARNS PAPAL BLESSING". New York Post. Archived from the original on August 18, 2000. Retrieved August 10, 2013.
+Jump up ^ "Pokémon trumped by pocket saints". BBC. June 27, 2000. Retrieved August 10, 2013.
+Jump up ^ Fitzgerald, Jim (December 3, 1999). "'Swastika' Pokemon card dropped". Chicago Sun-Times – via HighBeam. (subscription required (help)).
+Jump up ^ Crowley, Kieran (October 1999). "Lawsuit Slams Pokemon As Bad Bet for Addicted Kids". New York Post. Archived from the original on October 22, 2000.
+Jump up ^ "Saudi bans Pokemon". CNN. March 26, 2001. Archived from the original on January 18, 2008.
+Jump up ^ "Saudi Arabia bans Pokemon". BBC News. March 26, 2001. Retrieved February 13, 2009.
+Jump up ^ Ramlow, Todd R. (2000). "Pokemon, or rather, Pocket Money". Popmatters.
+Jump up ^ Ferlazzo, Edoardo; Zifkin, Benjamin G.; Andermann, Eva; Andermann, Frederick (2005). "REVIEW ARTICLE: Cortical triggers in generalized re?ex seizures and epilepsies" (PDF). Oxford University Press.
+Jump up ^ "Pokemon (episode #38) Packs a Punch". March 11, 2000. Retrieved August 10, 2013.
+Jump up ^ "Color Changes in TV Cartoons Cause Seizures". ScienceDaily. Archived from the original on November 8, 2004.
+Jump up ^ "Thirty Minutes Over Tokyo". The Simpsons Archive. Archived from the original on October 27, 2007. Retrieved July 16, 2008.
+Jump up ^ "South Park Goes Global: Reading Japan in Pokemon". University of Auckland. Archived from the original on October 17, 2008. Retrieved September 30, 2008.
+Jump up ^ Bronstad, Amanda (November 12, 2001). "Toy Firm Will Appeal 'Pocket Monster' Suit". Los Angeles Business Journal (FindArticles.com). Retrieved September 1, 2008.[dead link]
+Jump up ^ "Keeping Boston Safe: Officers Arrest Two Suspects, Recover Two Firearms after BPD Notified of Online Threats to Pokemon World Championship". bpdnews.com.
+Jump up ^ "Pokemon Sightings and Rip-offs". Archived from the original on May 19, 2008. Retrieved June 29, 2008.
+Jump up ^ Steiner, Ina (November 18, 2001). "Pokemon Center Opens in NYC". EcommerceBytes.com. Retrieved August 10, 2013.
+Jump up ^ Raichu 526. "PokeZam.com - Pokemon Center NY - PokeZam". PokeZam. Retrieved August 10, 2013.
+Jump up ^ "Fun for Kids". Big Apple Visitors Center. 2010. Archived from the original on January 2, 2012. Retrieved August 10, 2013.
+Jump up ^ "Pokemon Center NY". ManhattanLivingMag.com. 2009. Archived from the original on January 23, 2009. Retrieved August 10, 2013.
+Jump up ^ "Pokémon Center (store)". bulbagarden.net.
+Jump up ^ Sarkar, Samit (July 2, 2014). "Pokémon Center online store opening Aug. 6 in US, soft launch today". Polygon. Vox Media.
+Jump up ^ Joseph Jay Tobin (2004). Pikachu's global adventure: the rise and fall of Pokémon. Duke University Press. ISBN 0-8223-3287-6.
+Jump up ^ Castro, Juan (May 20, 2005). "E3 2005: Digimon World 4". IGN. Archived from the original on May 20, 2012. Retrieved April 4, 2010.
+Jump up ^ Thomas, Lucas M. (August 21, 2009). "Cheers & Tears: DS Fighting Games". IGN. Retrieved April 4, 2010.
+Jump up ^ Bedigian, Louis (July 12, 2002). "Digimon World 3 Review". GameZone. Archived from the original on January 27, 2010. Retrieved May 1, 2010.
+Jump up ^ DeVries, Jack (November 22, 2006). "Digimon World DS Review". IGN. Retrieved May 8, 2010.
+Jump up ^ "Related Games". GameSpot. Archived from the original on June 28, 2011. Retrieved May 8, 2010.
+Jump up ^ "Pokémon's Audience Is Growing Older - Siliconera". Siliconera.
+Jump up ^ Neiburger, Eli (July 1, 2007). "Games... in the Library?". School Library Journal. Retrieved March 11, 2015. Players can refer (or contribute) to Bulbapedia, a wiki-style encyclopedia of the Pokémon universe, to learn about the attributes, strengths, and weaknesses of over 500 different characters; the literacy required for success extends beyond the game itself.
+Jump up ^ O'Neil, Mathieu (2009). Cyberchiefs: autonomy and authority in online tribes (1. publ. ed.). London: Pluto Press. p. 148. ISBN 0745327974. Bulbapedia is a MediaWiki installation run by Pokémon fansite Bulbagarden.net for the purpose of creating a Pokémon-focused encyclopedia. This project is overseen by the Bulbapedia editorial board, and Bulbagarden's executive staff. Bulbapedia also incorporates the Bulbanews wiki, a news organization run by Bulbagarden as a means of publishing Pokémon news quickly and effectively. Bulbapedia is a founding member of Encyclopaediae Pokémonis, a multilingual, open-content Pokémon encyclopedia project.
+Jump up ^ Khaw, Cassandra (October 19, 2013). "More Starter Pokemon, Less Starting Pokemon: We Can Make Pokémon X & Y's Wonder Trade Better!". USgamer. Gamer Network. Archived from the original on March 10, 2015. Retrieved March 10, 2015.
+Jump up ^ McKinley Noble. "Major Pokemon game to be announced May 10". GamePro. Archived from the original on June 7, 2011. According to Pokemon Japan and Bulbapedia, the Internet's most detailed Pokemon database project...
+Jump up ^ "Smogon University Entertainment Website on Facebook". Facebook. Smogon is the largest competitive Pokemon community on the Internet.
+Jump up ^ "Gen VI Tiers". smogon.com.
+Jump up ^ Andrew Cunningham (February 18, 2014). "The bizarre, mind-numbing, mesmerizing beauty of "Twitch Plays Pokémon"". Condé Nast. Retrieved April 11, 2014.
+Jump up ^ Megan Farokhmanesh (March 25, 2014). "Twitch Plays Pokemon will continue as long as it has an active following". Vox Media, Inc. Retrieved April 11, 2014.
+Jump up ^ "What is the Nuzlocke Challenge?". Nuzlocke.com. 2010. Retrieved May 28, 2015.
+Jump up ^ Martinez, Phillip (May 14, 2015). "Pokémon Nuzlocke Challenge: 20 Years Of Playing Pokémon And This Is The Most Stressful Experience Ever". iDigitalTimes. Retrieved May 28, 2015.
+Jump up ^ Buzzi, Matthew (December 26, 2014). "Check Out Pokemon Uranium, A Downloadable Fan Project About Angry Nuclear-Type Pokemon In An Original World". Gamenguide. Retrieved May 28, 2015.
+Tobin, Joseph, ed. (February 2004). Pikachu's Global Adventure: The Rise and Fall of Pokémon. Duke University Press. ISBN 0-8223-3287-6.
+External links
+	Wikiquote has quotations related to: Pokémon
+	Look up pokémon in Wiktionary, the free dictionary.
+	Wikimedia Commons has media related to Pokémon.
+Official Japanese website of Pokémon (Japanese)
+Official US website of Pokémon
+Official UK website of Pokémon
+[show] v t e
+Pokémon
+[show] v t e
+Nintendo franchises
+[show] v t e
+eSports and competitive video gaming
+Categories: Pokémon1996 introductions1990s toys2000s toys2010s toysMedia franchises
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadView sourceView history
+
+Search
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Other projects
+Wikimedia Commons
+Wikiquote
+Languages
+Afrikaans
+Alemannisch
+????
+???????
+Asturianu
+Az?rbaycanca
+?????
+Bân-lâm-gú
+??????????
+?????????
+Bosanski
+Brezhoneg
+Català
+Cebuano
+Ceština
+Cymraeg
+Dansk
+Deutsch
+Eesti
+????????
+Español
+Esperanto
+Euskara
+?????
+Français
+Frysk
+Gaeilge
+Galego
+???
+Hawai`i
+???????
+??????
+Hrvatski
+Bahasa Indonesia
+Interlingua
+Íslenska
+Italiano
+?????
+Basa Jawa
+???????
+????? ????
+Latina
+Latviešu
+Lëtzebuergesch
+Lietuviu
+Lumbaart
+Magyar
+??????
+?????
+Bahasa Melayu
+Nahuatl
+Nederlands
+???
+???????
+Norsk bokmål
+Norsk nynorsk
+Occitan
+O?zbekcha/???????
+??????
+Picard
+Polski
+Português
+Româna
+???????
+???? ????
+Scots
+Shqip
+Simple English
+????
+Slovencina
+Slovenšcina
+Soomaaliga
+?????? / srpski
+Srpskohrvatski / ??????????????
+Basa Sunda
+Suomi
+Svenska
+Tagalog
+?????
+???
+???
+Türkçe
+??????????
+????
+Ti?ng Vi?t
+??
+??????
+??
+Zazaki
+??
+Edit links
+This page was last modified on 28 February 2016, at 19:17.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki
